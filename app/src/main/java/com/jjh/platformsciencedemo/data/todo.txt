@@ -1,0 +1,3 @@
+Write a custom type adapter to take string values from json string array
+and directly create the Address and Driver entities without the need for
+the intermediate

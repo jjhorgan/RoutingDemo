@@ -1,0 +1,1 @@
+Need network module to set up OkHttp, auth and logging interceptors, and Retrofit api wrappers.

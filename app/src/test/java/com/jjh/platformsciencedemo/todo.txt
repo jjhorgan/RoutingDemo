@@ -1,0 +1,3 @@
+view model state tests,
+object json serialization tests,
+business logic tests
